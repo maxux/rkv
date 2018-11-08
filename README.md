@@ -1,4 +1,7 @@
-# 0-db
+# WARNING
+This project is here for legacy purpose. This database is not: https://github.com/threefoldtech/0-db
+
+# 0-db (previously rkv)
 0-db is a simple implementation of a key-value store redis-protocol compatible which
 makes data persistant behing always append index/datafile
 
